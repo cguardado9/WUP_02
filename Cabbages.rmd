@@ -21,7 +21,7 @@ veggy <- cabbages
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
-$H_0$ :there is no difference in the null hypothesis in the VitC content of cabbages cultivated with methods from 39 and 52.
+$H_0$ :there is no difference in the null hypothesis in the VitC content of cabbages cultivated with methods from 39 and 52.  
 $H_A$ there is a difference in the vitamin C content based on cultivation method.
 
 
@@ -84,4 +84,4 @@ According to the Welch Two sample T results the p vaule is 0.00000003405 which i
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-I reject thenull hypothesis because p is too small .According to my data Cult 52 produce more VitC an average of 64.4 unlike c39 Cult only has a average of 51.5
+I reject the null hypothesis because p is too small .According to my data Cult 52 produce more VitC an average of 64.4 unlike c39 Cult only has a average of 51.5
